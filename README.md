@@ -1,16 +1,16 @@
 # Wakeup/Alarm Clock PhoneGap/Cordova Plugin
 
-### Platform Support
+## Platform Support
 
 This plugin supports PhoneGap/Cordova apps running on both iOS and Android.
 
-### Version Requirements
+## Version Requirements
 
 This plugin is meant to work with Cordova 3.5.0+.
 
 ## Installation
 
-#### Automatic Installation using PhoneGap/Cordova CLI (iOS and Android)
+### Automatic Installation using PhoneGap/Cordova CLI (iOS and Android)
 1. Make sure you update your projects to Cordova iOS version 3.5.0+ before installing this plugin.
 
         cordova platform update ios
